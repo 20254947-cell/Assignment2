@@ -10,9 +10,9 @@
 </head>
 <body>
 <center>
-    <img src="c:\Users\Xyrel Yvan B. Gatawa\Downloads\map.png" usemap="#workarea">
+    
     <H1>pick the states (Texas ,California, Florida, New York, Washington)</H1>
-
+    <img src="c:\Users\Xyrel Yvan B. Gatawa\Downloads\map.png" usemap="#workarea">
     <map name="workarea">
 
         <area shape="poly" coords="828,241,896,228,924,245,918,190,910,160,887,167,872,186,874,197,859,208,836,312,840,222" title="New York" href="newyork.html" target="blank">
